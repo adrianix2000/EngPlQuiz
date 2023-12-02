@@ -1,0 +1,55 @@
+contraption - gadżet/ustrojstwo
+actual - rzeczywisty
+tank - zbiornik
+fire alarm - alarm pożarowy
+consumption - zużycie
+parameter - parametr
+approximation - przybliżenie
+to record - zapisać
+comulative - zbiorczy/łączny
+to measure - mierzyć
+input - wkład/wejście
+to work out - wyliczyć
+to fluctuate - wahać się
+to maintain - utrzymać
+trough - spadek/niska wartość
+to generate - generować
+to compare - porównywać
+factor - czynnik
+rate - wskaźnik
+rise - wzrost
+microwave - mikrofalówka
+to heat up - podgrzać
+decrease - spadek
+colleague - współpracownik
+temperature sensor - czujnik temperatury
+to store - gromadzić
+peak time - czas najwyższej aktywności
+ballpark figure - wartość orientacyjna
+battery - bateria
+sufficient - wystarczający
+power station - elektrownia
+pressure - ciśnienie/napięcie
+productive - produktywny
+roughly - mniej więcej
+turbine - turbina
+minor - mniejszy/drugorzędny
+department - wydział
+current - obecny
+negative - negtywny
+curve - krzywa
+to highlight - podkreslić/akcentować
+to assess - oszczacować
+to utilise - wykorzystywać/użytkować
+major - większy/bardziej znaczący
+steam - para wodna
+rotor - wirnik/śmigło
+refrigeration - zamarzanie
+voltage - napięcie
+volume - głośność/pojemność
+velocity - prędkość/szybkość
+weight - waga
+momentary - chwilowy
+dishwasher - zmywarka
+exothermic - egzotermiczny
+endothermic - endotermiczny
