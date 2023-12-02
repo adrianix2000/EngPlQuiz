@@ -1,0 +1,138 @@
+nobel - szlachetne
+tin - cyna
+tungsten - wolfram
+brass - mosiądz
+cast alloy - stop odlewniczy
+cast iron - żeliwo
+stainless - nierdzewna
+resin - żywica
+inorganic - nieorganiczny
+elements - pierwiastki
+mercury - rtęć
+solvents - rozpuszczalnik
+nitrogen - azot
+oxygen - tlen
+hydrogen - wodór
+timber - drewno
+scrap - odpady/złom
+traces - śladowe ilości
+scarcity - niedobór
+justify - uzasadnić
+insulation - izolacja
+derived - uzyskane
+magnetism - magnetyzm
+ore - ruda
+melt down - stopić
+ironmongery - artykuły żelazne
+alloy - stop
+brass - mosiądz
+bronze - brąz
+hardwood - drewno liściaste
+deciduous - liściaste
+softwood - drewno iglaste
+combustible - palny
+flammable - zapalny
+hazardous - niebezpieczny
+radioactive - radioaktywny
+toxic - toksyczny
+man made - stworzony przez człowieka
+versatile - wszechstronny
+amenable to industrial use - nadaje się do użytku przemysłowego
+profuse - obfity
+abundant - obfity
+(relatively) scarce - (stosunkowo) rzadki
+maintenance free - bezobsługowy
+transparent - przeźroczysty
+translucent - przeświecający
+opaque - nieprzeźroczysty
+cladding - okładzina
+granular - ziarnisty
+fibrous - włóknisty
+porous - porowaty
+smooth - gładki
+(sound)absorbent - (dźwięko)chłonny
+water resistant - wodoodporny
+corrosion resistant - odporny na korozje
+shock resistant - odporny na wstrząsy
+abrasion resistant - odporny na ścieranie
+scratch resistant - odporny na zarysowanie
+bullet resistant - kuloodporny
+puncture resistant - odporny na przebicie
+tear resistant - odporny na rozdarcie
+chemical resistant - odporny chemicznie
+heat resistant - odporny na ciepło
+fire resistant - ognioodporny
+flame resistant - ognioodporny
+tension - naprężenie
+compression - sprężanie
+tensile strength - wytrzymałość na rozciąganie
+compressive strength - wytrzymałość na ściskanie
+deform - odkształcać
+deformation - odkształcenie
+extension - rozszerzenie
+elongation - wydłużanie
+subjected to tension - poddany naprężaniu
+elasticity - elastyczność
+brittle - łamliwy
+fracture - złamanie
+plasticity - plastyczność
+bar - pręt
+yield point - granica plastyczności
+yield - poddawać się działaniu sił
+a waist - przewężenie
+fracture point - punkt złamania
+modulus/model - współczynnik 
+toughness - wytrzymałość 
+abrasion - ścieranie 
+drive belt - pas napędowy 
+brake pads - klocki hamulcowe 
+brake disc  - tarcze hamulcowe 
+tyres/tires - opony
+sealing gasket - uszczelki 
+bullet - pancerz kuloodporny 
+sheets - arkusze 
+leak/leakage - wyciek
+puncture - przebicie
+tear/tore/torn - rozerwać/rozdarcie 
+tension - naprężenie 
+revolutions - obroty 
+lifespan - żywotność 
+take less of a toll - powodować mniejsze straty 
+pulp - papka 
+handling characteristics - właściwości pilotażowe 
+retain - zachować 
+inherent - nieodłączny 
+performance - osiągi 
+refine - oczyścić
+dissolve - rozpuszczać 
+spin/spun/spun - prząść 
+weave/wove/woven - utkać
+resin - żywica 
+boat hull - kadłub łodzi 
+torque - moment obrotowy 
+tensile stress - naprężenie rozciągające 
+impact - uderzenie 
+fighter jet - myśliwiec
+agile - zwinny
+heavy - ciężki
+tough - twardy
+elastic - elastyczny
+flexible - giętki
+ductile - plastyczny
+brittle - kruchy
+fluid - płynny
+abrasive - ścierny
+workable - wykonalny
+dense - gęsty
+resistant - odporny
+light/lightweight - lekki
+fragile - kruchy
+plastic - plastikowy
+rigid - sztywny
+malleable - ciągliwy
+stiff - sztywny
+viscous - lepki
+adhesive - przyczepny
+durable - wytrzymały
+cohesive - spoisty
+stable - stabliny
