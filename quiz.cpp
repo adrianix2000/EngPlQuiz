@@ -72,13 +72,14 @@ std::vector<std::string> sesja2(std::vector<std::string> &lines, int ang)
     return bads;
 }
 
-int main()
+int main(int argc, char* argv[])
 {
     system("clear");
     srand((unsigned)time(NULL));
 
     int ang = 2;
 
+    std::cout << argv[1] << std::endl;
     std::cout << "1) ang -> pl\n";
     std::cout << "2) pl -> ang\n";
 
@@ -89,7 +90,7 @@ int main()
 
     std::vector<std::string> lines;
 
-    if (loaddata("./slowka/slowka2.txt", lines))
+    if (loaddata(argv[1], lines))
     {
         while (!lines.empty())
             lines = sesja2(lines, ang);

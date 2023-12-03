@@ -1,0 +1,47 @@
+flow - przepływ
+majority - większość
+minority - mniejszość
+silent - cichy
+architect - architekt
+usual - zwykły
+automatic - automatyczny
+tap - kran
+to enable - umożliwić
+to control - sterować
+a control - kontrolka
+to calculate - obliczyć
+infrared - podczerwień
+value - wartość
+narrow - wąski
+shallow - płytki
+depth - głębokość
+height - wysokość
+wide - szeroki
+charger - ładowarka
+employee - pracownik
+employer - pracodawca
+detailed - szczegółowy
+to eliminate - wyeliminować
+cool - chłodny/w przyjemny sposób
+to monitor - monitorować
+blip - nagła zmiana
+expertise - ekspertyza/wiedza ekspercka
+to track - śledzić
+steering wheel - kierownica
+switch off delay - czasowe opóźnienie wyłączenia
+pointer - wskazówka
+to refill - wypełnić na nowo
+cover - pokrywa/okładka
+schedule - rozkład/plan
+pedometer - krokomierz
+montion sensor - czujnik ruchu
+intruder alarm - czujnik intruzów
+petrol gauge - wskaźnik poziomu paliwa
+to plug in - włączyć przy użyciu wtyczki
+fuel consumption - zużycie paliwa
+vehicle - pojazd
+industry - przemysł
+manufacture - produkować
+doorbell - dzwonek do drzwi
+acceleration - przyśpieszenie
+deceleration - zwalnianie
